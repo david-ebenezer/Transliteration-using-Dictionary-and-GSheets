@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "round-cable-379603",
+  "private_key_id": "b6f4fe94a24475d01881b0ceeb99c05bb49b2233",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDku5YQkbeO5JnL\nC/MpZu9kOGMtvh+CAV2HQP+V1jMQYXr7dkpGBXhDW7Z60GdHOyPTytxnk0+SFiyF\nTLAgR71u9bsEz+PPsLsNR6wF2CxcRsZrFekeNPC0hI0ToKbXk8pZqi+9ynDGFCG0\nOc1i0oQ9N1fHpIlmk00i2dwnTx4e2H1yJSDekvGwB3VLGuy3oSnHKmI4aNWRxWVd\nbViJcyKyaIbLuNxXqQfrGUrRNXQ/nt6gD0Lj7zDk5PqOyk56qQsZ6QPGsAqlAtLu\n3oeMBicxv6/fyivDV7shBrPU3uveY1n/06mWeRyCqYSk0lHACqdDg2ddJvT7Qyev\nlHKSxrHJAgMBAAECggEAA16Msb2tiwd67LQp3BbheRlLw2DmwHjIV/kYMdd1TeJp\nuBTj8N2OwuexyCsF18cpaI5TuH8W9utveh766BbS4+2Zu+8+6uXLEAiETQX2Aqhp\ny0bPElisS0KrfDnriz/26JvHAbPCbvXdSligvYEXJF4m1UJrKUgn3Y/WVRhZNLzA\n3FNKj/Fwo2XoTy8MNfxKeq7AMJmOqzH42xB3LFRWovYSiHztmkvHQ9yOaO1NEkLN\n62By2Z0CVTK/wXb8GLMKlLcL3qNtlyNTMTpoMsRE0InEDKWP/MCKDYI0ELMfdg91\niPqiw3GjXxAkUYMFghfKIW3nT9kDod3HNjh0D1Z2yQKBgQD2Gj7odMy7sdYXfooc\nRmYWJgnCzckEKJAFv/WEqsBWygF0voT//o0zle+h+tuyKguqNxetlny1GUEWY+Ou\nGaB6BzpOUkTVA6Rs7P+ejkFr96Hg1qiTcP+YUZeW8UlOPCVFBvLD5UFVLoKT2x78\nNjntX5Ye/+2Eaj6JQWqr3VKqTQKBgQDt7oJ4MzS1rMknxFbA4FrKH4blvjjyMlaU\ntvj65AdDxvqdOX9iCqH+S/zgJWf5n2XApCbMZiGiHh5MRFaiHOAn5C8Ayj4oLVin\nXBBbGrnO23D2inqhPVRIoTIWaveG5c92bULYgCgUOKEHEPkGx5Er42q8gSSocpcr\nASkglf5rbQKBgQDiWqV9vOAJyrm1hkeVVhLTUE0uBYRb9Mry3un9Ceg6azYHoKxH\noGNTDRcJDug+6HkuJ9n5aS5uiznYVCu3mA6H7lnsa7KvkdgL77f0p7b4jR0w5X7L\njeUovfMFfAwGjz9gS9HB5/y9Ujf7slC/fUiuUXqMLKzTW70FFUv9o2VDCQKBgQC2\nNfrKrIRIQTuHbc/2Q5qjwcMf/C5GJJCzsPA5yxlZKW/Rqi/IWFY4ld7hlSPsQcq9\n3bgsvmYxbhlL1OX3nl93jUMFutwhDqEfAd0wt+Xl6Z234NMK2hnKyU+/ZUmMkD/x\n9LjFblfDLJ78912OeJTPZIjgNZJqQd9MusXRQ60kfQKBgQCmmfvuWPLbCBY2Lno8\nOQlPr2YqoXylTbNyoGWmB1MZd3GZnrkeo06MM8ZKQohFFjzJsTbPmV2OX6rMqeSH\nSSKwA62VZenRuQCK5hxXHenMkExxI8mTz3Qpl8pCgqMA8CRqFjuJcpPuDmPRnDVe\ndbq9NTCyChAs2t9Wh2jGz4CzpA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "forlyricss@round-cable-379603.iam.gserviceaccount.com",
+  "client_id": "104913761409158390367",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/forlyricss%40round-cable-379603.iam.gserviceaccount.com"
+}
